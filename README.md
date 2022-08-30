@@ -1,6 +1,6 @@
-# Jeremias_Portfolio
+# DataScience_Portfolio
 
-Data science portfolio
+![](datavizpreviewimage2.png)
 
 # [Proyecto_1: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/tree/HumanResources_project)
 
