@@ -2,7 +2,7 @@
 
 Data science portfolio
 
-# Proyecto_1: Analytics Employee Attrition & Performance
+# [Proyecto_1: Analytics Employee Attrition & Performance] (https://github.com/Lapantufla/Data_Analysis/tree/HumanResources_project)
 
 Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
 Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
