@@ -8,7 +8,7 @@
 Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
 Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
 
-[Link DataFrame:](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?datasetId=1067&sortBy=voteCount)
+[Link DataFrame](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?datasetId=1067&sortBy=voteCount)
 
 Las tareas que se realizaron son: 
 
@@ -33,7 +33,7 @@ Las tareas que se realizaron son:
 Este caso requiere desarrollar una segmentación de clientes para definir la estrategia de marketing. 
 El conjunto de datos de muestra el comportamiento de uso de tarjetas de crédito de aproximadamente 9000 titulares activos durante los últimos 6 meses.
 
-[Link DataFrame:](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
+[Link DataFrame](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 
 Las tareas que se realizaron son: 
 
