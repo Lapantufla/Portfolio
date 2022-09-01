@@ -39,7 +39,7 @@ Las tareas que se realizaron son:
 
 * Visualización del DataFrame: 
   * Gráficos de histogramas con densidad.
-  * Gráfico de correlaciones (matriz de correlacion)
+  * Gráfico de correlaciones (matriz de correlación)
 
 * Encontrar número óptimo de clusters.
 
@@ -48,4 +48,24 @@ Las tareas que se realizaron son:
 
 * Aplicación de análisis de componentes principales.
 
+# [Proyecto_3: Rossmann Store Sales](https://github.com/Lapantufla/Data_Analysis/tree/StoreSales_project)
+
+Se le proporcionan datos históricos de ventas de 1.115 tiendas Rossmann. La tarea es pronosticar la columna "Ventas" para el conjunto de prueba.
+
+[Link DataFrame](https://www.kaggle.com/c/rossmann-store-sales/data)
+
+Las tareas que se realizaron son: 
+
+* Visualización del DataFrame: 
+  * Gráficos de histogramas.
+  * Gráfico de correlaciones (matriz de correlación).
+  * Gráficos de ventas/clientes (en promedio).
+  * Gráficos de tipo violín.
+
+* Limpieza de los datos:
+  * Tratamiento de valores nulos.
+
+* Creación y entrenamiento modelo facebook prophet.
+   * Declaración y entrenamiento de fbprophet.
+   * Análisis de los resultados del modelo.
 
