@@ -23,5 +23,4 @@ Las tareas que se realizaron son:
 * Creación y entrenamiento modelos de clasificación.
   * División de los datos.
   * Declaración y entrenamiento de modelo de regresión logística.
-  * Declaración y entrenamiento de modelo de random forest.
-  * Análisis de la performance de los modelos declarados.
+  * Análisis de la performance del modelo de regresión logística.
