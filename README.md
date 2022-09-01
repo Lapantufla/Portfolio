@@ -3,7 +3,7 @@
 
 ![](datavizpreviewimage2.png)
 
-# [Proyecto_1: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/tree/HumanResources_project)
+# [Proyecto_1: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/blob/HumanResources_project/HumanResources_project.ipynb)
 
 Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
 Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
