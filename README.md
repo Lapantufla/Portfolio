@@ -41,7 +41,7 @@ Las tareas que se realizaron son:
   * Tratamiento de valores nulos.
 
 * Visualización del DataFrame: 
-  * Gráficos de histogramas con densidad.
+  * Gráficos de histogramas con estimación de densidad kernel.
   * Gráfico de correlaciones (matriz de correlación)
 
 * Encontrar número óptimo de clusters.
