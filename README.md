@@ -28,7 +28,7 @@ Las tareas que se realizaron son:
   * Análisis de la performance del modelo de regresión logística.
 
 
-# [Proyecto_2: Credit Card Dataset for Clustering](https://github.com/Lapantufla/Data_Analysis/tree/Marketing_project)
+# [Proyecto_2: Credit Card Dataset for Clustering](https://github.com/Lapantufla/Data_Analysis/blob/Marketing_project/CreditCardClustering_project.ipynb)
 
 Este caso requiere desarrollar una segmentación de clientes para definir la estrategia de marketing. 
 El conjunto de datos de muestra el comportamiento de uso de tarjetas de crédito de aproximadamente 9000 titulares activos durante los últimos 6 meses.
