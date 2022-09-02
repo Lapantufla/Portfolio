@@ -37,6 +37,9 @@ El conjunto de datos de muestra el comportamiento de uso de tarjetas de crédito
 
 Las tareas que se realizaron son: 
 
+* Limpieza de los datos:
+  * Tratamiento de valores nulos.
+
 * Visualización del DataFrame: 
   * Gráficos de histogramas con densidad.
   * Gráfico de correlaciones (matriz de correlación)
