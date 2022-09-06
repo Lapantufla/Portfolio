@@ -51,7 +51,7 @@ Las tareas que se realizaron son:
 
 * Aplicación de análisis de componentes principales.
 
-# [Proyecto_3: Rossmann Store Sales](https://github.com/Lapantufla/Data_Analysis/tree/StoreSales_project)
+# [Proyecto_3: Rossmann Store Sales](https://github.com/Lapantufla/Data_Analysis/blob/StoreSales_project/StoreSales_project.ipynb)
 
 Se le proporcionan datos históricos de ventas de 1.115 tiendas Rossmann. La tarea es pronosticar la columna "Ventas" para el conjunto de prueba.
 
