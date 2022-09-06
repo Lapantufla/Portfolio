@@ -59,14 +59,15 @@ Se le proporcionan datos históricos de ventas de 1.115 tiendas Rossmann. La tar
 
 Las tareas que se realizaron son: 
 
-* Visualización del DataFrame: 
-  * Gráficos de histogramas.
+* Exploración del DataFrame:
+  * Primeros acercamientos e hipótesis.
+  * Tratamiento de valores nulos.
+  * Graficos de histogramas.
   * Gráfico de correlaciones (matriz de correlación).
+
+* Análisis de fechas:
   * Gráficos de ventas/clientes (en promedio).
   * Gráficos de tipo violín.
-
-* Limpieza de los datos:
-  * Tratamiento de valores nulos.
 
 * Creación y entrenamiento modelo facebook prophet.
    * Declaración y entrenamiento de fbprophet.
