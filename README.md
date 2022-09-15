@@ -3,7 +3,7 @@
 
 ![](datavizpreviewimage2.png)
 
-# [Proyecto_1: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/blob/HumanResources_project/HumanResources_project.ipynb)
+# [Project_1: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/blob/HumanResources_project/HumanResources_project.ipynb)
 
 Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
 Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
@@ -28,7 +28,7 @@ Las tareas que se realizaron son:
   * Análisis de la performance del modelo de regresión logística.
 
 
-# [Proyecto_2: Credit Card Dataset for Clustering](https://github.com/Lapantufla/Data_Analysis/blob/Marketing_project/CreditCardClustering_project.ipynb)
+# [Project_2: Credit Card Dataset for Clustering](https://github.com/Lapantufla/Data_Analysis/blob/Marketing_project/CreditCardClustering_project.ipynb)
 
 Este caso requiere desarrollar una segmentación de clientes para definir la estrategia de marketing. 
 El conjunto de datos de muestra el comportamiento de uso de tarjetas de crédito de aproximadamente 9000 titulares activos durante los últimos 6 meses.
@@ -51,7 +51,7 @@ Las tareas que se realizaron son:
 
 * Aplicación de análisis de componentes principales.
 
-# [Proyecto_3: Rossmann Store Sales](https://github.com/Lapantufla/Data_Analysis/blob/StoreSales_project/StoreSales_project.ipynb)
+# [Project_3: Rossmann Store Sales](https://github.com/Lapantufla/Data_Analysis/blob/StoreSales_project/StoreSales_project.ipynb)
 
 Se le proporcionan datos históricos de ventas de 1.115 tiendas Rossmann. La tarea es pronosticar la columna "Ventas" para el conjunto de prueba.
 
