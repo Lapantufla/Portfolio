@@ -18,12 +18,13 @@ Las tareas que se realizaron son:
   * Gráficos de densidad.
   * Gráficos de cajas.
  
-* Limpieza de los datos:
-  * Tratamiento de variables categóricas ( con aprouch: OneHotEncoder y OrdinalEncoder).
-  * Escalado de datos.
+* Selección y tratamiento de features:
+  * Tratamiento de variables categóricas ( con aprouch: Ordinal Encoding, Counting Encoding, Ordered Integer Encoding y Probability Ratio Encoding).
+  * Analisis y tratamiento de cardinalidades y valores raros.
+  * Seleccion de features (con aprouch: Unvariate model performance).
 
 * Creación y entrenamiento modelos de clasificación.
-  * División de los datos.
+  * Escalado de datos.
   * Declaración y entrenamiento de modelo de regresión logística.
   * Análisis de la performance del modelo de regresión logística.
 
