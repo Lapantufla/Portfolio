@@ -52,25 +52,35 @@ Las tareas que se realizaron son:
 
 * Aplicación de análisis de componentes principales.
 
-# [Project_3: Rossmann Store Sales](https://github.com/Lapantufla/Data_Analysis/blob/StoreSales_project/StoreSales_project.ipynb)
+# [Project_3: Customer Retention](https://github.com/Lapantufla/Data_Analysis/blob/CustomerRetention_project/CustomerRetention_project.ipynb)
 
-Se le proporcionan datos históricos de ventas de 1.115 tiendas Rossmann. La tarea es pronosticar la columna "Ventas" para el conjunto de prueba.
+Prediga el comportamiento para retener a los clientes. Puede analizar todos los datos relevantes de los clientes y desarrollar programas específicos de retención de clientes. [Conjuntos de datos de muestra de IBM]
 
-[Link DataFrame](https://www.kaggle.com/c/rossmann-store-sales/data)
+[Link DataFrame](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 Las tareas que se realizaron son: 
 
 * Exploración del DataFrame:
   * Primeros acercamientos e hipótesis.
-  * Tratamiento de valores nulos.
-  * Graficos de histogramas.
-  * Gráfico de correlaciones (matriz de correlación).
-
-* Análisis de fechas:
-  * Gráficos de ventas/clientes (en promedio).
-  * Gráficos de tipo violín.
-
-* Creación y entrenamiento modelo facebook prophet.
-   * Declaración y entrenamiento de fbprophet.
-   * Análisis de los resultados del modelo.
+  * Gráficos de histogramas.
+  * Gráficos de densidad.
+  * Gráficos de barras.
+  
+* Selección y tratamiento de features.
+   * Tratamiento variables categóricas:
+      * Ordinal Encoding.
+      * Ordered Integer Encoding.
+      * Count Encoding.
+      * Target Mean Encoding.
+      * Weight of Evidence Encoding.
+    
+   * Feature selection:
+      * Ji-square test.
+      * Anova test.
+    
+* Creación y entrenamiento modelos de clasificación.
+  * Data Balancing.
+  * Escalado de datos.
+  * Declaración y entrenamiento de modelos (Regresión logística, Random forest y XGBClassifier).
+  * Análisis de la performance de los modelos.
 
