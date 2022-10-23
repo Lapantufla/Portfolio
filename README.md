@@ -21,12 +21,12 @@ Las tareas que se realizaron son:
 * Selección y tratamiento de features:
   * Tratamiento de variables categóricas ( con aprouch: Ordinal Encoding, Counting Encoding, Ordered Integer Encoding y Probability Ratio Encoding).
   * Analisis y tratamiento de cardinalidades y valores raros.
-  * Seleccion de features (con aprouch: Unvariate model performance).
+  * Seleccion de features.
 
 * Creación y entrenamiento modelos de clasificación.
   * Escalado de datos.
-  * Declaración y entrenamiento de modelo de regresión logística.
-  * Análisis de la performance del modelo de regresión logística.
+  * Declaración y entrenamiento de modelo de regresión logística y random forest.
+  * Análisis de la performance de los modelos.
 
 
 # [Project_2: Credit Card Dataset for Clustering](https://github.com/Lapantufla/Data_Analysis/blob/Marketing_project/CreditCardClustering_project.ipynb)
@@ -74,9 +74,7 @@ Las tareas que se realizaron son:
       * Target Mean Encoding.
       * Weight of Evidence Encoding.
     
-   * Feature selection:
-      * Ji-square test.
-      * Anova test.
+* Feature selection.
     
 * Creación y entrenamiento modelos de clasificación.
   * Data Balancing.
