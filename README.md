@@ -3,7 +3,40 @@
 
 ![](datavizpreviewimage2.png)
 
-# [Project_1: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/blob/HumanResources_project/HumanResources_project.ipynb)
+
+# [Project_1: Bank Marketing](https://github.com/Lapantufla/Data_Analysis/blob/BankMarketing_project/BankMarketing_project.ipynb)
+
+Los datos están relacionados con campañas de marketing (llamadas telefónicas) de una institución bancaria portuguesa. 
+El objetivo de la clasificación es predecir si el cliente suscribirá o no a un depósito a plazo (variable y).
+
+[Link DataFrame](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing?datasetId=30368&sortBy=voteCount)
+
+Las tareas que se realizaron son: 
+
+* Visualización del DataFrame: 
+  * Gráficos de histogramas.
+  * Gráficos de barras.
+
+* Feature Engineering:
+  * Discretizacion de variables.
+  * Tratamiento de valores nulos.
+  * Tratamiento de variables categóricas (con aprouch: Ordinal Encoding, Target Mean Encoding).
+  
+* Feature selection:
+  * Features constantes y casi-constantes.
+  * Features correlacionados.
+  * Chi-square test.
+  * Mutual information.
+  * Random Forest importance.
+  * Logistic Regression Coefficients.
+  * Análisis de la performance de distintos aprouchs de selección.
+ 
+* Creación y entrenamiento modelos de clasificación:
+  * Declaración y entrenamiento de modelo de regresión logística, random forest y gradient boosting.
+  * Análisis de la performance de los modelos.
+
+
+# [Project_2: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/blob/HumanResources_project/HumanResources_project.ipynb)
 
 Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
 Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
@@ -29,7 +62,7 @@ Las tareas que se realizaron son:
   * Análisis de la performance de los modelos.
 
 
-# [Project_2: Credit Card Dataset for Clustering](https://github.com/Lapantufla/Data_Analysis/blob/Marketing_project/CreditCardClustering_project.ipynb)
+# [Project_3: Credit Card Dataset for Clustering](https://github.com/Lapantufla/Data_Analysis/blob/Marketing_project/CreditCardClustering_project.ipynb)
 
 Este caso requiere desarrollar una segmentación de clientes para definir la estrategia de marketing. 
 El conjunto de datos de muestra el comportamiento de uso de tarjetas de crédito de aproximadamente 9000 titulares activos durante los últimos 6 meses.
@@ -52,7 +85,7 @@ Las tareas que se realizaron son:
 
 * Aplicación de análisis de componentes principales.
 
-# [Project_3: Customer Retention](https://github.com/Lapantufla/Data_Analysis/blob/CustomerRetention_project/CustomerRetention_project.ipynb)
+# [Project_4: Customer Retention](https://github.com/Lapantufla/Data_Analysis/blob/CustomerRetention_project/CustomerRetention_project.ipynb)
 
 Prediga el comportamiento para retener a los clientes. Puede analizar todos los datos relevantes de los clientes y desarrollar programas específicos de retención de clientes. [Conjuntos de datos de muestra de IBM]
 
