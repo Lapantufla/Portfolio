@@ -9,7 +9,9 @@ Los datos están relacionados con accidentes de siniestros viales en CABA.
 El objetivo es hacer un analisis exploratorio de los datos y plantear hipotesis.
 
 [Link Presentacion en pdf](https://github.com/Lapantufla/Data_Analysis/blob/CABA_Accident_EDA_project/EDA%20Homicidios%20y%20accidentes%20viales.pdf)
+
 [Link notebook](https://github.com/Lapantufla/Data_Analysis/blob/CABA_Accident_EDA_project/homicidios_%26_accidentes%20(1).ipynb)
+
 [Link DataFrames](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
 
 Las tareas que se realizaron son: 
