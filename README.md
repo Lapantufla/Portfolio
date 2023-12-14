@@ -36,7 +36,7 @@ Las tareas que se realizaron son:
 
 
 
-# [Project_2: Bank Marketing](https://github.com/Lapantufla/Data_Analysis/blob/BankMarketing_project/BankMarketing_project.ipynb)
+# [Project_2: Bank Marketing](https://github.com/Lapantufla/Data_Analysis/blob/BankMarketing_project/BankMarketing_project2_0.ipynb)
 
 Los datos están relacionados con campañas de marketing (llamadas telefónicas) de una institución bancaria portuguesa. 
 El objetivo de la clasificación es predecir si el cliente suscribirá o no a un depósito a plazo (variable y).
@@ -45,26 +45,18 @@ El objetivo de la clasificación es predecir si el cliente suscribirá o no a un
 
 Las tareas que se realizaron son: 
 
-* Visualización del DataFrame: 
-  * Gráficos de histogramas.
-  * Gráficos de barras.
+* EDA: 
+  * Creacion de distintos graficos (distribuciones, barplots, countplots, regplots, etc..).
+  * Calculo de probabilidades condicionales.
+  * Plateo de hipotesis.
 
 * Feature Engineering:
   * Discretizacion de variables.
   * Tratamiento de valores nulos.
-  * Tratamiento de variables categóricas (con aprouch: Ordinal Encoding, Target Mean Encoding).
-  
-* Feature selection:
-  * Features constantes y casi-constantes.
-  * Features correlacionados.
-  * Chi-square test.
-  * Mutual information.
-  * Random Forest importance.
-  * Logistic Regression Coefficients.
-  * Análisis de la performance de distintos aprouchs de selección.
+  * Tratamiento de variables categóricas.
  
 * Creación y entrenamiento modelos de clasificación:
-  * Declaración y entrenamiento de modelo de regresión logística, random forest y gradient boosting.
+  * Declaración y entrenamiento de modelos: knn, random forest y xgboost.
   * Análisis de la performance de los modelos.
 
 
