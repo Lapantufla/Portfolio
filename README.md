@@ -41,6 +41,10 @@ Las tareas que se realizaron son:
 Los datos están relacionados con campañas de marketing (llamadas telefónicas) de una institución bancaria portuguesa. 
 El objetivo de la clasificación es predecir si el cliente suscribirá o no a un depósito a plazo (variable y).
 
+[Link Presentacion en pdf](https://github.com/Lapantufla/Data_Analysis/blob/BankMarketing_project/Bank%20Marketing%20presentacion.pdf)
+
+[Link Notebook](https://github.com/Lapantufla/Data_Analysis/blob/BankMarketing_project/BankMarketing_project2_0.ipynb)
+
 [Link DataFrame](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing?datasetId=30368&sortBy=voteCount)
 
 Las tareas que se realizaron son: 
