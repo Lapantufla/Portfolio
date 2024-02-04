@@ -80,11 +80,6 @@ Las tareas que se realizaron son:
   * Transfer learning VGG16.
   * Seleccion de features.
 
-* Creación y entrenamiento modelos de clasificación.
-  * Escalado de datos.
-  * Declaración y entrenamiento de modelo de regresión logística y random forest.
-  * Análisis de la performance de los modelos.
-
 # [Project_4: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/blob/HumanResources_project/HumanResources_project.ipynb)
 
 Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
