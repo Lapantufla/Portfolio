@@ -68,7 +68,7 @@ Las tareas que se realizaron son:
 
 Se trabajo con el dataset UTK-face, se utilizo la cnn VGG16 para transfer learning y predecir la edad de las personas.
 
-[Link DataFrame](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-set?datasetId=1067&sortBy=voteCount)
+[Link DataFrame](https://susanqq.github.io/UTKFace/)
 
 Las tareas que se realizaron son: 
  
