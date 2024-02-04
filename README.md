@@ -64,7 +64,28 @@ Las tareas que se realizaron son:
   * Análisis de la performance de los modelos.
 
 
-# [Project_3: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/blob/HumanResources_project/HumanResources_project.ipynb)
+# [Project_3: Age prediction](https://github.com/Lapantufla/ComputerVision/blob/AgePrediction/age_prediction.ipynb)
+
+Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
+Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
+
+[Link DataFrame](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?datasetId=1067&sortBy=voteCount)
+
+Las tareas que se realizaron son: 
+ 
+* Selección y tratamiento de features.
+  * Preprocesamiento de imagenes crudas.
+
+* Modelado de red neuronal.
+  * Transfer learning VGG16.
+  * Seleccion de features.
+
+* Creación y entrenamiento modelos de clasificación.
+  * Escalado de datos.
+  * Declaración y entrenamiento de modelo de regresión logística y random forest.
+  * Análisis de la performance de los modelos.
+
+# [Project_4: Analytics Employee Attrition & Performance](https://github.com/Lapantufla/Data_Analysis/blob/HumanResources_project/HumanResources_project.ipynb)
 
 Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
 Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
