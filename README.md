@@ -66,10 +66,9 @@ Las tareas que se realizaron son:
 
 # [Project_3: Age prediction](https://github.com/Lapantufla/ComputerVision/blob/AgePrediction/age_prediction.ipynb)
 
-Descubra los factores que conducen a la deserción de los empleados, creando preguntas importantes y explorando posibles respuestas. 
-Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
+Se trabajo con el dataset UTK-face, se utilizo la cnn VGG16 para transfer learning y predecir la edad de las personas.
 
-[Link DataFrame](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?datasetId=1067&sortBy=voteCount)
+[Link DataFrame](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-set?datasetId=1067&sortBy=voteCount)
 
 Las tareas que se realizaron son: 
  
