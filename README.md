@@ -1,5 +1,5 @@
 
-# DataScience_Portfolio
+# Portfolio
 
 ![](datavizpreviewimage2.png)
 
